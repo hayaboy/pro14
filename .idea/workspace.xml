@@ -9,40 +9,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ad6ea2cc-bde6-4f24-8ecf-50dbdf55c7ce" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/webContexts.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/green/pro14/HelloServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/filter/EncoderFilter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sec01/ex01/MemberBean.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sec01/ex02/Address.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sec01/ex02/MemberBean.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/test01/forward.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/test01/login.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/test01/member2.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/test01/member3.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/test01/member4.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/test01/member4_1.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/test01/member6.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/test01/memberForm.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/test01/result.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/test02/forward1.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/test02/member1.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/test03/login.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/test03/member1.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/test03/member4.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/test03/member5.jsp" afterDir="false" />
+    <list default="true" id="ad6ea2cc-bde6-4f24-8ecf-50dbdf55c7ce" name="Changes" comment="3_4_jsp">
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/test03/member4.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/test03/member4.jsp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -233,11 +201,35 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1709516647011</updated>
-      <workItem from="1709516648179" duration="14300000" />
+      <workItem from="1709516648179" duration="14437000" />
     </task>
+    <task id="LOCAL-00001" summary="3_4_jsp">
+      <option name="closed" value="true" />
+      <created>1709538287918</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1709538287918</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="3_4_jsp" />
+    <option name="LAST_COMMIT_MESSAGE" value="3_4_jsp" />
   </component>
 </project>
