@@ -96,7 +96,7 @@
     <c:param  name="email" value="hong@test.com" />
 </c:url>
 
-<a href="${url1}"> 회원정보 출력# </a>
+<a href="${url1}"> 회원정보 출력# ##</a>
 
 <hr>
 
